@@ -21,19 +21,15 @@ Social media serves as a primary source of information in the current digital er
 
 This project uses two publicly available datasets for fake news detection: **Fakeddit** and **GossipCop**.
 
----
-
-### Fakeddit Dataset
+##### Fakeddit Dataset
 
 The primary dataset is obtained from:
 🔗 https://github.com/entitize/Fakeddit
 
----
-
-### GossipCop Dataset 
+##### GossipCop Dataset
 
 This dataset is accessed via:
-🔗 https://github.com/safe-graph/GNN-FakeNewsv
+🔗 https://github.com/safe-graph/GNN-FakeNews
 
 ---
 
